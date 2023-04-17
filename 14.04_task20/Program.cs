@@ -26,5 +26,5 @@ int ycor2 = Convert.ToInt32(Console.ReadLine());
 
 
 double distance = Distance(xcor1, ycor1, xcor2, ycor2);
-double distanceRound = Math.Round(distanse, 2);
+double distanceRound = Math.Round(distance, 2);
 Console.WriteLine($"расстояние между точками = {distanceRound}");
