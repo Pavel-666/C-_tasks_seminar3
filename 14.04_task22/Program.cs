@@ -3,7 +3,7 @@
 // квадратов чисел от 1 до N.
 
 
-void TableAllSquares(int num)
+ void TableAllSquares(int num)
 {
     int index = 1;
     while (index <= num)
